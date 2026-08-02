@@ -3,7 +3,7 @@
  * @author José Alejandro Díaz Delgado
  * @since 2026/07/23
  * */
-import modelo.Usuario;
+import model.User;
 
 public class Main{
     public static void main(String[] args){
